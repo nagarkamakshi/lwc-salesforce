@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/nagarkamakshi.lwc-ktc0lcjp",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve A8lWlEYxuGdpUR1bUIW0 --open"
+  }
+}
